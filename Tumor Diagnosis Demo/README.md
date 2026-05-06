@@ -8,7 +8,7 @@ The goal is to demonstrate a full supervised-learning workflow:
 2. standardize the numerical predictors,
 3. visualize two representative features,
 4. train a linear large-margin classifier,
-5. select the regularization strength by 5-fold Cross-Validation,
+5. select the regularization strength by k-fold Cross-Validation,
 6. fit the final model,
 7. visualize a 2D slice of the learned decision boundary.
 
