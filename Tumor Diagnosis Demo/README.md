@@ -10,7 +10,7 @@ The goal is to demonstrate a full supervised-learning workflow:
 4. train a linear large-margin classifier,
 5. select the regularization strength by k-fold Cross-Validation,
 6. fit the final model,
-7. visualize a 2D slice of the learned decision boundary.
+7. visualize a $2D$ slice of the learned decision boundary.
 
 The notebook uses a Linear Support Vector Machine style classifier implemented through
 
