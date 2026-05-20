@@ -1,2 +1,2 @@
-# Data-Science
-Compilation of general Data Science projects.
+# AI-and-Data-Science
+Compilation of AI-and-Data-Science projects.
