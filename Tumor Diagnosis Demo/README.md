@@ -27,7 +27,7 @@ The goal is to demonstrate a full supervised-learning workflow:
 ```text
 Tumor Diagnosis Demo/
 ├── README.md
-└── main.ipynb
+└── Tumor Diagnosis Demo.ipynb
 ```
 
 ## Requirements
